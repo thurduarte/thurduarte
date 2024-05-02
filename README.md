@@ -1,5 +1,5 @@
 opa me chamo Arthur 
-![](link)
+Estou estudando o Alura
 
 <!--
 **thurduarte/thurduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
